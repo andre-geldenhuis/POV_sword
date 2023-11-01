@@ -30,6 +30,8 @@
 
 #include <Arduino.h>
 #include <Adafruit_DotStar.h>
+
+#include <Wire.h>
 // #include <avr/power.h>
 // #include <avr/sleep.h>
 // #include <IRremote.h>
